@@ -7,5 +7,5 @@
  3. Move the wand in any desired path
  4. Finish recording and export the recording as a CSV file. This saves the position, orientation, and time of each frame of the rigid body
  5. Remove the wand as a rigid body in Motiv and define the drones and payload as rigid bodies
- 6. Go to Trajectory_Planner and change the file location in extractTraj to the new one exported
+ 6. Go to Trajectory_Planner and change the file location in extract_traj to the new one exported
  
